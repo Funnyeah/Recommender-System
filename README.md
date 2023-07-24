@@ -18,6 +18,10 @@
 
 - MD.py: 矩阵分解算法的python实现  
 
+## 外链
+
+https://zhuanlan.zhihu.com/p/275873029
+
 ## 推荐系统总结  
 推荐系统的核心问题是确定用户-内容矩阵(Utility Matrix) 
 
